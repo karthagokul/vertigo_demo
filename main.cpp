@@ -1,3 +1,8 @@
 void gathercpu()
 {
 }
+
+
+void gathermemory()
+{
+}
